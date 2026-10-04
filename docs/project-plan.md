@@ -30,10 +30,10 @@ Schedule the four phases that deliver the console calculator of Udemy's "100 Day
 
 | Gateway | Document | Window | Decision date | Owner | Stories | Main deliverable | Milestone |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Project scaffold | [MIL-001] | 2026-10-05 | 2026-10-05 | S01 | | `pyproject.toml` | |
-| Calculator core | [MIL-002] | 2026-10-06 | 2026-10-06 | S01 | | `src/calc/constants.py` and `src/calc/operations.py` | |
-| Console interface | [MIL-003] | 2026-10-07 | 2026-10-07 | S01 | | `src/calc/calculator.py` and `src/calc/__main__.py` | |
-| Documentation and release | [MIL-004] | 2026-10-08 | 2026-10-08 | S01 | | `README.md` following the project template | |
+| Project scaffold | [MIL-001] | 2026-10-05 | 2026-10-05 | S01 | | `pyproject.toml` | [Milestone 30] |
+| Calculator core | [MIL-002] | 2026-10-06 | 2026-10-06 | S01 | | `src/calc/constants.py` and `src/calc/operations.py` | [Milestone 31] |
+| Console interface | [MIL-003] | 2026-10-07 | 2026-10-07 | S01 | | `src/calc/calculator.py` and `src/calc/__main__.py` | [Milestone 32] |
+| Documentation and release | [MIL-004] | 2026-10-08 | 2026-10-08 | S01 | | `README.md` following the project template | [Milestone 33] |
 
 ```plantuml
 @startgantt
@@ -86,3 +86,7 @@ A No-Go moves every later date by the time needed to fix the failed criterion.
 [SA-001]: ./stakeholder-analysis.md
 [BC-001]: ./business-case.md
 [8ccefff]: https://git.tirsystem.com/Tirsvad-Udemy-100_days_of_code/010-calc/commit/8ccefffef7ec1f9ecbf548085a5c92fae75e1341
+[Milestone 30]: https://git.tirsystem.com/Tirsvad-Udemy-100_days_of_code/010-calc/milestone/30
+[Milestone 31]: https://git.tirsystem.com/Tirsvad-Udemy-100_days_of_code/010-calc/milestone/31
+[Milestone 32]: https://git.tirsystem.com/Tirsvad-Udemy-100_days_of_code/010-calc/milestone/32
+[Milestone 33]: https://git.tirsystem.com/Tirsvad-Udemy-100_days_of_code/010-calc/milestone/33
