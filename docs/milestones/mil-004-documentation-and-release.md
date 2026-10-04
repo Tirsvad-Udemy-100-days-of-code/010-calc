@@ -9,7 +9,7 @@
 ## Version History
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
-| 2026-10-04 | Accepted | Jens Tirsvad Nielsen | S01 | Initial version | pending |
+| 2026-10-04 | Accepted | Jens Tirsvad Nielsen | S01 | Initial version | [8ccefff] |
 
 ---
 
@@ -66,3 +66,4 @@ Decide whether the project can be handed over: a new user can set it up, run it 
 [PP-001]: ../project-plan.md
 [SA-001]: ../stakeholder-analysis.md
 [BC-001]: ../business-case.md
+[8ccefff]: https://git.tirsystem.com/Tirsvad-Udemy-100_days_of_code/010-calc/commit/8ccefffef7ec1f9ecbf548085a5c92fae75e1341

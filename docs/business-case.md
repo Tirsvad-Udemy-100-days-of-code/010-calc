@@ -9,7 +9,7 @@
 ## Version History
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
-| 2026-10-04 | Accepted | Jens Tirsvad Nielsen | S01 | Initial version | pending |
+| 2026-10-04 | Accepted | Jens Tirsvad Nielsen | S01 | Initial version | [8ccefff] |
 
 ---
 
@@ -104,3 +104,4 @@ Proceed — the scope is small, the cost is low and it completes the assignment.
 ---
 
 [SA-001]: ./stakeholder-analysis.md
+[8ccefff]: https://git.tirsystem.com/Tirsvad-Udemy-100_days_of_code/010-calc/commit/8ccefffef7ec1f9ecbf548085a5c92fae75e1341
